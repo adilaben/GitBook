@@ -1,14 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-/**
- * @license MIT
- * @author adilaben <adilabendahou98@gmail.com>
- * @copyright adilaben 2023
- */
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 :root {
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0);
@@ -46,8 +35,7 @@
 
   /* Light Colors */
 
-  --background-light: hsl(214.88deg 100% 71% / 10%);
-  /* --background-light: hsl(0, 0%, 100%); */
+  --background-light: hsl(213, 100%, 94%);
   --on-background-light: hsl(220, 40%, 13%);
   --primary-light: hsl(212, 100%, 50%);
   --primary-hover-light: hsl(212, 100%, 45%);
